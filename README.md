@@ -2,7 +2,7 @@
 # Salesman
 
 A program to find a short path between points (ending at the first point) 
-on a flat euclidean plane using point substitution.
+on a flat euclidean plane using nearest insertion.
 
 Written in Java. "salesman.java" is the source code.
 "salesman.jar" is a compiled and runnable version of salesman.java.
