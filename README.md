@@ -20,7 +20,10 @@ it successfully joins together the Alaskan cities in the below example.
 Exaxmple problem: Short Path Between Major US Cities
 
 Copy-paste the contents of uscities.txt exactly into the program 
-and it will find a short path between the cities.
+and it will find a short path between the cities. NOTE: The uscities.txt 
+file uses Unix-style line breaks. Copy-pasting into a Windows CMD or 
+PowerShell does not work but copy-pasting into a Linux/Mac Terminal does 
+work and also Cygwin on Windows works.
 
 The data comes from https://gist.github.com/ecarter/413343
 
