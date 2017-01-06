@@ -17,7 +17,7 @@ it successfully joins together the Alaskan cities in the below example.
 
 
 
-Exaxmple problem: Short Path Between Major US Cities
+Example problem: Short Path Between Major US Cities
 
 Copy-paste the contents of uscities.txt exactly into the program 
 and it will find a short path between the cities. NOTE: The uscities.txt 
